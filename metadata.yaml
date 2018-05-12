@@ -1,0 +1,32 @@
+_repo: Scenes-in-the-Hawaiian-Islands-and-California_28034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Mary E. (Mary Evarts)
+    aliases:
+    - Street, Mary Evarts Anderson
+    - Anderson, Mary Evarts
+    birthdate: 1838
+    deathdate: 1905
+    gutenberg_agent_id: '33091'
+    url: http://www.gutenberg.org/2009/agents/33091
+description: ''
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28034'
+  lccn: 05013480
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Hawaii -- Description and travel'
+- !lcsh 'California -- Description and travel'
+- !lcc 'DU'
+title: Scenes in the Hawaiian Islands and California
+url: http://www.gutenberg.org/ebooks/28034
