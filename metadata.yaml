@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33091'
     url: http://www.gutenberg.org/2009/agents/33091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28034#Scenes-in-the-Hawaiian-Islands-and-California
 gutenberg_issued: '2009-02-09'
 gutenberg_type: Text
 identifiers:
